@@ -1,23 +1,22 @@
 # Privacy Policy for Sanad Store
 
-Sanad Store takes your privacy seriously. This privacy policy explains how we collect and use your personal information.
+Sanad Store takes your privacy seriously. This privacy policy explains how we collect and use your personal information to provide a better delivery experience.
 
 ## Collection of Information
-Sanad Store collects basic information to provide better services to our users:
-* **Contact Information:** We collect your phone number and name to create your account and manage your orders.
-* **Location Data:** With your permission, we use location services to determine your delivery address to ensure accurate shipping of goods.
-* **Device Information:** We track basic information like device type and OS version for routine administration and maintenance purposes.
+To ensure fast and accurate delivery without errors, we collect:
+* **Contact Information:** We collect your phone number and name to manage your orders and contact you.
+* **Precise Location Data:** We collect your GPS location to help our delivery team reach your address quickly and avoid any delivery mistakes.
+* **Device Information:** We track basic information like device type to optimize app performance.
 
-## Data Usage and Third Parties
-We use local storage to save your preferences and history. We do not display third-party advertisements. Any external services used, such as maps, are subject to their own privacy policies.
+## Data Usage
+Your location data is used strictly for delivery purposes. We do not share your personal data with third parties for advertising.
 
 ## Security
-The security of your personal information is important to us. We use commercially acceptable means to protect your data, but remember that no method of electronic storage is 100% secure.
+We use commercially acceptable means to protect your personal data.
 
 ## Changes To This Privacy Policy
-This Privacy Policy is effective as of February 20, 2026. We reserve the right to update our policy at any time.
+Updated on: February 20, 2026.
 
 ## Contact Information
-For any questions regarding this policy, please contact us at:
+For any questions, please contact us at:
 shukri733822@gmail.com
-
